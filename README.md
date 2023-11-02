@@ -18,7 +18,7 @@ This Quiz Application is an online platform designed to facilitate the creation 
 
 1. Clone the repository.
 2. Ensure Docker and docker-compose are installed on your machine.
-3. Navigate to the project root and run: ´docker-compose up´
+3. Navigate to the project root and run: `docker-compose up`
 
 4. Open your browser and navigate to `http://localhost:7777`.
 
